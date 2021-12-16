@@ -10,3 +10,18 @@
 
 ## Summary
 I am a hopefully-soon-to-be Junior Frontend engineer. Have made multiple attempts to learn how to code in the past, hoping **RSSchool** is my golden ticket into the profession.
+
+## Code example:
+```
+const printReversedNameBySymbol = (word) => {
+  let i = word.length - 1;
+  let result = '';
+
+  while (i >= 0) {
+    result = result + word[i];
+    i = i - 1;
+  }
+  
+  return result;
+}
+```
