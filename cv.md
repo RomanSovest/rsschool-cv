@@ -31,3 +31,9 @@ None in this particular field. Most of the work in my life has been concentrated
 - English teacher
 - Foreign students coordinator
 - Content management
+
+## Education and courses
+1. Moscow University for the Humanities
+2. Hexlet Frontend program (Beginner)
+3. https://learn.javascript.ru/ (Beginner)
+
