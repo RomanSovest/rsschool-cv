@@ -25,3 +25,9 @@ const printReversedNameBySymbol = (word) => {
   return result;
 }
 ```
+## Work experience
+None in this particular field. Most of the work in my life has been concentrated around speaking English:  
+- Translator
+- English teacher
+- Foreign students coordinator
+- Content management
