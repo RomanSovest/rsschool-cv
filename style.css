@@ -41,3 +41,22 @@
     padding-right: 15px;
     border-right: 1px solid;
   }
+
+  .userpic {
+    width: 100%;
+    height: auto;
+    border-radius: 100%;
+  }
+  
+  .content {
+    padding-left: 30px;
+  }
+  
+  footer {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  a {
+    color: grey;
+  }
