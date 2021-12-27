@@ -9,3 +9,18 @@
     font: 18px/1.5 Helvetica, Arial, sans-serif;
     background: #9fb38d96;;
   }
+
+  code {
+    white-space: pre;
+  }
+  
+  .code-container {
+    background-color: #ffffff52;
+  }
+  
+  .container {
+    width: 100%;
+    max-width: 980px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
