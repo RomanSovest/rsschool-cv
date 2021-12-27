@@ -1,1 +1,11 @@
-#this_is_gonna_be_STYLISH
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+    padding: 0;
+    color: grey;
+    font: 18px/1.5 Helvetica, Arial, sans-serif;
+    background: #9fb38d96;;
+  }
